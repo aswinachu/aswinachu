@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey there, I'm Aswin!  
 
-<!--
-**aswinachu/aswinachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m passionate about **Software Reliability** and enhancing **collaboration and productivity**
+Here are some of the projects I’ve worked on:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 📱 [ANDROID APPLICATION](https://github.com/aswinachu/U-Board)
+**U-Board** – University notice board application  
+- Designed and developed an **Android app** (U-Board) using **MongoDB**  
+- Enables students & faculty to post and view notices in real-time  
+
+---
+
+### 🗄️ [OWN DATABASE ENGINE](https://github.com/aswinachu/Own-Database-Engine)
+**Database Engine (C-based)**  
+- Built a custom **Database Engine** with:  
+  - Storage Manager 🗃️  
+  - Buffer Manager 🔄  
+  - Record Manager 📑  
+  - **B+ Tree Index** 🌳  
+
+---
+
+### 🛒 HOME SHOPPING WEB APPLICATION  
+**E-Commerce Web App**  
+- Designed & developed a shopping web application using:  
+  - **JavaEE**, **Ajax**, **MySQL**  
+  - **Twitter API**, **MongoDB**, **Python**  
+- Supports dynamic search, product recommendations, and social integration  
+
+---
+
+### 📊 CHARTING DASHBOARD  
+**Interactive Data Dashboard**  
+- Built an analytics dashboard using:  
+  - **ES6 JavaScript**, **Chart.js**, **Dataframe.js**  
+- Depicts real-time data through beautiful and dynamic charts 📈  
+
+---
+
+## 🌟 Let's Connect!
+💼 [LinkedIn](https://linkedin.com/in/aswinachuthan) | 📂 [GitHub Repos](https://github.com/aswinachu)
+
