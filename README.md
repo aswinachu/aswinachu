@@ -16,11 +16,14 @@ Here are some of the projects I’ve worked on:
 
 ### 🗄️ [OWN DATABASE ENGINE](https://github.com/aswinachu/Own-Database-Engine)
 **Database Engine (C-based)**  
-- Built a custom **Database Engine** with:  
-  - Storage Manager 🗃️  
-  - Buffer Manager 🔄  
-  - Record Manager 📑  
-  - **B+ Tree Index** 🌳  
+```
+Built a custom **Database Engine** with:
+├── 🌳 B+Tree Manger/          # B+-Tree indexing implementation
+├── 🧠 Buffer Manager/         # Buffer pool management
+├── 📊 Record Manager/         # Record and table management
+├── 💾 Storage Manager/        # File I/O and page management
+└── 📖 README.md              
+```
 
 ---
 
