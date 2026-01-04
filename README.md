@@ -1,8 +1,21 @@
 # 👋 Hey there, I'm Aswin!  
 
-💻 I’m passionate about **Software Reliability** and enhancing **collaboration and productivity**
+💻 I’m passionate about **Software Reliability** and enhancing **collaboration and productivity**. 
+
 Here are some of the projects I’ve worked on:
 
+---
+
+### 📝 Smart Checklist for Jira 
+**Forge Jira App**  
+- ✅ Create and manage checklists directly within Jira issues.
+- 📂 Smart Headers: Organize tasks into sections using header items (start with #).
+- ✍️ Rich Inputs:
+  - Tag users: @username
+  - Add dates: //tomorrow or pick from a calendar.
+- 🏷️ Custom Statuses: Define your own workflows! Go beyond "To Do" and "Done" with project-level status configurations.
+- 🎨 Color Coding: Visual status indicators for quick scanning.
+  
 ---
 
 ## 🚀 Featured Projects
@@ -45,5 +58,5 @@ Built a custom **Database Engine** with:
 ---
 
 ## 🌟 Let's Connect!
-💼 [LinkedIn](https://linkedin.com/in/aswinachuthan) | 📂 [GitHub Repos](https://github.com/aswinachu)
+💼 [LinkedIn](https://linkedin.com/in/aswinachuthan) | 📂 [GitHub Repos](https://github.com/aswinachu?tab=repositories)
 
