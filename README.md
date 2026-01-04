@@ -6,7 +6,9 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-### 📝 Smart Checklist for Jira 
+## 🚀 Featured Projects
+
+### 📝 [Smart Checklist for Jira](https://github.com/aswinachu/Smart-checklist-for-Jira)
 **Forge Jira App**  
 - ✅ Create and manage checklists directly within Jira issues.
 - 📂 Smart Headers: Organize tasks into sections using header items (start with #).
@@ -17,8 +19,6 @@ Here are some of the projects I’ve worked on:
 - 🎨 Color Coding: Visual status indicators for quick scanning.
   
 ---
-
-## 🚀 Featured Projects
 
 ### 📱 [ANDROID APPLICATION](https://github.com/aswinachu/U-Board)
 **U-Board** – University notice board application  
