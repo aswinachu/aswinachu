@@ -8,10 +8,10 @@ Here are some of the projects I’ve worked on:
 
 ## 🚀 Featured Projects
 
-### 📝 [Smart Checklist for Jira](https://github.com/aswinachu/Smart-checklist-for-Jira)
+### 📝 [Advanced Checklist for Jira](https://github.com/aswinachu/advanced-checklist-for-Jira)
 **Forge Jira App**  
 - ✅ Create and manage checklists directly within Jira issues.
-- 📂 Smart Headers: Organize tasks into sections using header items (start with #).
+- 📂 Headers: Organize tasks into sections using header items (start with #).
 - ✍️ Rich Inputs:
   - Tag users: @username
   - Add dates: //tomorrow or pick from a calendar.
